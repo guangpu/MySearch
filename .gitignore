@@ -12,3 +12,21 @@
 /captures
 .externalNativeBuild
 .cxx
+
+# Intellij
+*.iml
+.idea/.name
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/runConfigurations.xml
+.idea/inspectionProfiles/Project_Default.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/libraries
+.idea/caches/
+.idea/codeStyles/Project.xml
+.externalNativeBuild/
